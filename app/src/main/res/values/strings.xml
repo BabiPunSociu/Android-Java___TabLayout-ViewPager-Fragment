@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TabLayout+ViewPager+Fragment</string>
+    <string name="home_fragment">Home fragment</string>
+    <string name="favorite_fragment">Favorite fragment</string>
+    <string name="history_fragment">History fragment</string>
+    <string name="account_fragment">Account fragment</string>
+</resources>
